@@ -21,3 +21,7 @@ Clique no link abaixo para visualizar o projeto:
 ---
 
 Projeto desenvolvido como parte de desafio prático da DIO.
+
+<p align="center">
+  <img src="assets/Motoca.svg" width="180" />
+</p>
